@@ -1,2 +1,1 @@
 # javascript
-web developmet practice
