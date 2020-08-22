@@ -1,2 +1,2 @@
-# javascript-
+# javascript
 web developmet practice
